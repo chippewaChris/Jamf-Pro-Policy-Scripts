@@ -13,12 +13,6 @@
 # EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED     
 # WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.         
 #                                                                             
-# Permission is granted to Parachute inc. to utilize this script    
-# for the purpose of updating an extension attribute en massse on thier small 
-# client server.  This is for the purpose of viewing the customer with which 
-# the computer is associated to - which is helpful when examining computer 
-# from multiple instances together.  
-#                                                                             
 ###############################################################################
 
 username="Insert username" #example: Admin
