@@ -13,9 +13,8 @@
 # Chris Cohoon | Chippewa Limited Liability Co.
 #
 # License Grant and Restrictions
-# This script (the "Work") is licensed to Parachute Inc. (the "Licensee") for use
-# in their internal business operations only. The Licensee is granted a
-# non-exclusive, non-transferable, and non-assignable license to use the Work for
+# The Licensee is granted a non-exclusive, non-transferable, and non-assignable
+# license to use the Work for
 # lawful purposes only, and may not modify, reverse engineer, decompile, or
 # disassemble the Work without prior written consent from Chippewa Limited
 # Liability Co.
@@ -26,18 +25,6 @@
 # express or implied.
 #
 # All rights reserved 2023 Chippewa Limited Liability Co.
-#
-################################################################################
-#
-#           This new script replaces the old script which relied on Python
-#
-#!/bin/bash
-#
-#currentUser=$( python -c 'from SystemConfiguration import SCDynamicStoreCopyConsoleUser; import sys; username = (SCDynamicStoreCopyConsoleUser(None, None, None) or [None])[0]; username = [username,""][username in [u"loginwindow", None, u""]]; sys.stdout.write(username + "\n");' )
-#
-#
-#sudo -u "$currentUser" $4
-#
 #
 #################################################################################
 
